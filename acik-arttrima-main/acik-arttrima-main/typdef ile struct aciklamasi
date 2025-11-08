@@ -1,0 +1,2 @@
+struct girilen iki sayi arasinda karsilastirma yapar.
+typdef tek bir kez tip tanimlanarak ondan sonraki degisikliklerde bir kez degistirmenin yeterli olmasini saglar.
